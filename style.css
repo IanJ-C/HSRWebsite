@@ -1,0 +1,48 @@
+.navbar-brand img{
+    width: auto;
+    max-height: 50px;
+}
+.full-width{
+    width: 600;
+    height: 315;
+}
+.banner-img{
+    width: auto;
+    height: 15.625rem;
+    object-fit: fill;
+}
+.img-sm{
+    width: 40px;
+    height: auto;
+}
+.img-small{
+    width: 30px;
+    height: auto;
+}
+.feature-item img{
+    width: 40px;
+    height: auto;
+}
+.img-smaller{
+    max-width: 20px;
+    max-height: 20px;
+}
+.five-star{
+    background-color: #c9a36a;
+}
+.four-star{
+    background-color: #8a5fcc;
+}
+.subscribe{
+    background-image: url(images/Herta_Monitoring_Room2.png);
+    background-size: cover;
+    background-position: center;
+}
+.brand-icon img{
+    width: 150px;
+    height: auto;
+}
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color: rgba(255 255 255 / 30%);
+}
